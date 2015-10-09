@@ -22,7 +22,7 @@
           "type": "Layer",
           "id": "example231",
           "title": "東北沢駅からFOSS4GTokyo会場まで",
-          "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+          "url": "http://yunie564.github.com/gsimaps/example231/{z}/{x}/{y}.geojson",
           "html": "<a href='https://github.com/Yunie564/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
         }
       ]
