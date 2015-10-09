@@ -23,7 +23,9 @@
           "id": "example231",
           "title": "東北沢駅からFOSS4GTokyo会場まで",
           "url": "http://yunie564.github.com/gsimaps/example231/{z}/{x}/{y}.geojson",
-          "html": "<a href='https://github.com/Yunie564/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+          "html": "<a href='https://github.com/Yunie564/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
+          "maxzoom": 18,
+          "maxNativeZoom": 2
         }
       ]
     }
