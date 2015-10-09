@@ -4,6 +4,8 @@
     {
       "type": "Feature",
       "properties": {
+        "name": "徒歩ルート",
+        "description": "東北沢駅からFOSS4GTokyo会場までの徒歩ルート",
         "_color": "#0b5394",
         "_opacity": 1,
         "_weight": 3
